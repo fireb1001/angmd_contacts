@@ -1,0 +1,10 @@
+.contact-card{
+    width: 200px;
+    margin: 10px;
+}
+
+.add-contact-fab {
+  position: absolute;
+  right: 20px;
+  bottom: 10px;
+}
