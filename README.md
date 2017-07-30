@@ -1,10 +1,14 @@
-# Letsplay
+# Angular material contacts test app
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.
 
 ## Udemy Course
-
 https://www.udemy.com/styling-angular-applications-with-angular-material/
+
+## Angular cli 
+https://github.com/angular/angular-cli
+
+## Agular Material components
+https://material.angular.io/components
 
 ## Development server
 
